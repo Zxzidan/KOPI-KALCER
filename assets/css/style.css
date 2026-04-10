@@ -80,3 +80,58 @@
 }
 
 /* Akhir Style Jumbotron */
+
+/* Awal Style Konten1 */
+.konten1 {
+  position: relative;
+  padding: 20px 20px;
+  background-image: url("../img/soft warm beige backdrop.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.konten1::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.6);
+}
+
+.konten1 p {
+  position: relative;
+  z-index: 2;
+  text-align: justify;
+  max-width: 1000px; /* Batasi lebar teks */
+  margin: auto; /* Biar tetap di tengah */
+  padding: 20px 20px;
+}
+/* Akhir Style konten1 */
+
+/* Awal Style Konten2 */
+.konten2 {
+  position: relative;
+  padding: 20px 20px;
+  background-color: #f8f9fa;
+  text-align: center;
+}
+
+.konten2 h3 {
+  font-size: 3.3em;
+  margin-bottom: 10px;
+  margin-top: 70px;
+  font-family: "montserrat", sans-serif;
+  color: #006838;
+  font-weight: normal;
+}
+
+.konten2 h2 {
+  font-size: 1.1em;
+  color: #006838;
+  margin-top: 40px;
+}
+
+.konten2 img {
+  max-width: 600px;
+  height: auto;
+}
+/* Akhir Style Konten2 */
