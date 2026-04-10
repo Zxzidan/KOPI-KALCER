@@ -1,6 +1,6 @@
 ☕ Kopi Kalcer
 
-<img width="200" height="200" alt="preview" src="https://github.com/user-attachments/assets/f7d09fed-e917-4234-a605-526e33dfa681" />
+<img width="200" height="200" position="center" alt="preview" src="https://github.com/user-attachments/assets/f7d09fed-e917-4234-a605-526e33dfa681" />
 
 
 ## 📌 Tentang Project
