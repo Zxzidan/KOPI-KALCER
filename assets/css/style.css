@@ -1,3 +1,5 @@
+/* BAGIAN STYLE NAVBAR */
+
 .navbar {
   height: 100px;
   padding: 0 20px;
@@ -16,5 +18,65 @@
 
 .navbar-nav {
   position: relative;
-  left: 370px;
+  left: 300px;
 }
+
+.navbar-nav li {
+  padding: 30px;
+}
+
+.dropdown-menu li {
+  padding: 10px;
+}
+
+.sosial-media {
+  position: relative;
+  right: 30px;
+}
+
+.sosial-media a {
+  padding: 15px;
+}
+/* Akhir Style Navbar */
+
+/* Awal Style Jumbotron */
+.jumbotron {
+  height: 95vh;
+  background-image: url("../img/kedaikopi.jpg");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+
+  display: flex;
+  align-items: center;
+}
+
+.jumbotron::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.2));
+}
+
+.container-jumbotron {
+  position: relative;
+  z-index: 2;
+  color: white;
+  max-width: 600px;
+  margin-left: 50px;
+}
+
+.container-jumbotron h1 {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.container-jumbotron p {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+/* Akhir Style Jumbotron */
