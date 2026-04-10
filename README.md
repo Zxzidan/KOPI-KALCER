@@ -1,6 +1,6 @@
 ☕ Kopi Kalcer
 
-<img width="2000" height="2000" alt="preview" src="https://github.com/user-attachments/assets/fbf7b96f-4236-433a-9298-d0041ccbb36b" />
+<img width="500" height="500" alt="LOGO UMKM" src="https://github.com/user-attachments/assets/4041c510-0f49-443e-9d0e-19672f6fa9b3" />
 
 
 ## 📌 Tentang Project
