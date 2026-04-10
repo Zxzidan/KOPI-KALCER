@@ -1,4 +1,4 @@
-# ☕ Kopi Kalcer
+<img width="1280" height="632" alt="image" src="https://github.com/user-attachments/assets/6b0b7643-f94b-44f7-a4ce-5e55a5537a0e" /># ☕ Kopi Kalcer
 
 ![Logo Kopi Kalcer](assets/img/preview)
 
@@ -60,7 +60,7 @@ kopi-kalcer/
 ├── index.html
 ├── assets/
 │   ├── img/
-│   │   └── logo.png
+│   │   └── preview.png
 │   └── css/
 │       └── style.css
 ├── js/
