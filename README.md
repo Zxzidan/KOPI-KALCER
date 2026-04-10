@@ -1,7 +1,7 @@
 <h1 align="center">☕ Kopi Kalcer</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f7d09fed-e917-4234-a605-526e33dfa681" width="200"/>
+  <img src="https://github.com/user-attachments/assets/f7d09fed-e917-4234-a605-526e33dfa681" width="300"/>
 </p>
 
 
