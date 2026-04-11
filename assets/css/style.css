@@ -111,27 +111,44 @@
 .konten2 {
   position: relative;
   padding: 20px 20px;
-  background-color: #f8f9fa;
   text-align: center;
+  background-image: url("../img/pexels-834934396-20818883.jpg");
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+}
+
+.konten2::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4); /* ganti jadi gelap */
+  z-index: 0;
+}
+
+.konten2 * {
+  position: relative;
+  z-index: 1;
 }
 
 .konten2 h3 {
   font-size: 3.3em;
   margin-bottom: 10px;
   margin-top: 70px;
-  font-family: "montserrat", sans-serif;
-  color: #006838;
-  font-weight: normal;
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff; /* putih biar kontras */
+  font-weight: 600;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);
+  letter-spacing: 1px;
 }
 
 .konten2 h2 {
   font-size: 1.1em;
-  color: #006838;
+  color: #d4f5e9; /* hijau muda biar tetap tema kopi */
   margin-top: 40px;
+  font-weight: 400;
+  text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.5);
+  letter-spacing: 0.5px;
 }
 
-.konten2 img {
-  max-width: 600px;
-  height: auto;
-}
 /* Akhir Style Konten2 */
